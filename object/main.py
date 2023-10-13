@@ -2,7 +2,7 @@ import cv2
 # shoutld add the confidence level
 
 #importing image and processing image file
-# img = cv2.imread('dhoni.jpeg')
+# img = cv2.imread('images/')
 cap =cv2.VideoCapture(0)# 0's and 1's for camera
 cap.set(3,640)
 cap.set(4,480)
