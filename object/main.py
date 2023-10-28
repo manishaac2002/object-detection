@@ -1,5 +1,5 @@
 import cv2
-# shoutld add the confidence level
+# should add the confidence level
 
 #importing image and processing image file
 # img = cv2.imread('images/')
